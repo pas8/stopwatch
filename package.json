@@ -19,7 +19,8 @@
     "redux": "^4.1.0",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "rxjs": "^7.3.0"
+    "rxjs": "^7.3.0",
+    "three": "^0.131.1"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.171",
