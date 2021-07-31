@@ -20,7 +20,8 @@ export const initialState: AppInitialStateType = {
       }
     }
   },
-  timeFormat: 'HH: MM: SS'
+  timeFormat: 'HH: MM: SS',
+  // pauseStatus: false
 };
 
 export const AppReducer = (state = initialState, action: AppActionTypes): AppInitialStateType => {
